@@ -1,2 +1,5 @@
 Name: Ivan
 University: PJATK
+unstaged hello
+hello from staging area
+Student id: s35248
